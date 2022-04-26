@@ -1,6 +1,6 @@
 # terra-clicker-game
 
-# How to start
+### How to start
 
 Clone `KryptWill`:
 
