@@ -1,7 +1,5 @@
 # terra-clicker-game
 
-![alt text](https://github.com/laiweileeee/terra-clicker-game/blob/master/ezgif.com-gif-maker.gif)
-
 <p align="center">
   <img src="ezgif.com-gif-maker.gif" alt="animated" />
 </p>
