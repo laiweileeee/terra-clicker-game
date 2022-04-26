@@ -2,7 +2,6 @@
 
 <p align="center">
   <img src="ezgif.com-gif-maker.gif" alt="animated" />
-  <p>terra-clicker-game.netlify.app</p>
 </p>
 
 ### Stuff I learnt
