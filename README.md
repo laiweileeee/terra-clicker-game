@@ -2,7 +2,7 @@
 
 ### How to start
 
-Clone `KryptWill`:
+Clone `terra-clicker-game`:
 
 ```sh
 git clone https://github.com/laiweileeee/terra-clicker-game.git
