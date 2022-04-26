@@ -1,5 +1,7 @@
 # terra-clicker-game
 
+![alt text](https://github.com/laiweileeee/terra-clicker-game/blob/master/ezgif.com-gif-maker.gif)
+
 ### How to start
 
 Clone `terra-clicker-game`:
