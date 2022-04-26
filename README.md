@@ -3,8 +3,8 @@
 ![alt text](https://github.com/laiweileeee/terra-clicker-game/blob/master/ezgif.com-gif-maker.gif)
 
 ### Stuff learnt
-[x] cosmwasm contract architecture
-[x] terra js 
+-[x] cosmwasm contract architecture
+-[x] terra js 
 
 ### How to start
 
