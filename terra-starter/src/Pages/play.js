@@ -9,7 +9,6 @@ const Play = () => {
   const playTime = 15;
 
   const [time, setTime] = useState(playTime);
-  const [gameOver, setGameOver] = useState(false);
   // We use this to track where the target is on the screen
   const [targetPosition, setTargetPosition] = useState({
     top: "15%",
@@ -35,6 +34,7 @@ const Play = () => {
       );
       submitScore();
     }
+    // eslint-disable-next-line
   }, [time]);
 
   const submitScore = async () => {
