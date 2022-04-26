@@ -4,7 +4,7 @@
   <img src="ezgif.com-gif-maker.gif" alt="animated" />
 </p>
 
-### Stuff learnt
+### Stuff I learnt
 - [x] cosmwasm contract architecture
 - [x] terra js 
 
