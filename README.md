@@ -2,9 +2,13 @@
 
 ![alt text](https://github.com/laiweileeee/terra-clicker-game/blob/master/ezgif.com-gif-maker.gif)
 
+<p align="center">
+  <img src="ezgif.com-gif-maker.gif" alt="animated" />
+</p>
+
 ### Stuff learnt
--[x] cosmwasm contract architecture
--[x] terra js 
+- [x] cosmwasm contract architecture
+- [x] terra js 
 
 ### How to start
 
